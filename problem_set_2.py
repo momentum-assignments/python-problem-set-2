@@ -31,8 +31,10 @@
 
 # ------------------------------------------------------------------------------
 # 6. There are many techniques to sort lists (or arrays) in programming. Many programming
-# languages include functions or methods that can do this for you. We are going to
-# implement sorting ourselves, however.
+# languages include functions or methods that can do this for you -- including Python.
+# (https://docs.python.org/3/howto/sorting.html#sortinghowto)
+#
+# We are going to implement sorting ourselves, however.
 #
 # A "selection sort" is one of the most simple sorting algorithms. To implement it,
 # you start with an unsorted list of numbers. You search the list and find the
